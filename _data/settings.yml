@@ -12,9 +12,10 @@ menu:
 projects:
 - {name: 'Maquette Promis',   url: 'proj-1'}
 - {name: 'Maquette Galerie',   url: 'proj-2'}
-- {name: 'Modélisation 3D', url: 'proj-3'}
-- {name: 'La sphère',  url: 'proj-4'}
-- {name: 'Projet Générique',  url: 'proj-5'}
+- {name: 'leif', url: 'proj-3'}
+- {name: 'willy',  url: 'proj-4'}
+- {name: 'La sphère',  url: 'proj-5'}
+- {name: 'Projet Générique',  url: 'proj-6'}
 
 #-------------------------------
 # Contact Section
