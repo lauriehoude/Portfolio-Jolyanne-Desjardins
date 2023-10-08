@@ -3,7 +3,7 @@
 
 menu:
 
-- {name: 'About',    url: 'about'}
+- {name: 'À propos',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
