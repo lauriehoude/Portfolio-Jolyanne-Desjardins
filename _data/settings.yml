@@ -2,8 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
+
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -11,17 +10,17 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Maquette Promis',   url: 'proj-1'}
+- {name: 'Maquette Galerie',   url: 'proj-2'}
+- {name: 'Modélisation 3D', url: 'proj-3'}
+- {name: 'La sphère',  url: 'proj-4'}
+- {name: 'Projet Générique',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/lenpaul'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
