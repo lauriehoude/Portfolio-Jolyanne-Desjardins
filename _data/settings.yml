@@ -11,12 +11,12 @@ menu:
 
 projects:
 - {name: 'Maquette Promis',   url: 'proj-1'}
-- {name: 'Maquette Galerie',   url: 'proj-2'}
-- {name: 'Site Festival Electra',   url: 'proj-3'}
-- {name: 'leif', url: 'proj-4'}
+- {name: 'Site Festival Electra',   url: 'proj-2'}
+- {name: 'Maquette Galerie',   url: 'proj-3'}
+- {name: 'Projet Générique',  url: 'proj-4'}
 - {name: 'willy',  url: 'proj-5'}
 - {name: 'La sphère',  url: 'proj-6'}
-- {name: 'Projet Générique',  url: 'proj-7'}
+
 
 #-------------------------------
 # Contact Section
