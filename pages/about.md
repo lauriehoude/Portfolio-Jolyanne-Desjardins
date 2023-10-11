@@ -5,5 +5,7 @@ permalink: /about
 ---
 
 # Portfolio Jekyll Theme
+Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Techniques d'intégration multimédia au Collège Montmorency à Laval. Je suis une passionnée du montage vidéo et de la création de contenus en tout genre autant en design, qu'en audiovisuelle et qu'en vidéo. Je suis assez polyvalente vous allez découvrir dans mes oeuvres.
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+
+
