@@ -9,14 +9,14 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 Liste des logiciels maitrisés
-Adobe After Effect
-Unity
-Reaper
-Maya
-Photoshop
-VcV Rack 2
-Max 8
-Github
-ilustrator
-DAVinci Resolve
-Visual STudio code
+- Adobe After Effect
+- Unity
+- Reaper
+- Maya
+- Photoshop
+- VcV Rack 2
+- Max 8
+- Github
+- ilustrator
+- DAVinci Resolve
+- Visual STudio code
