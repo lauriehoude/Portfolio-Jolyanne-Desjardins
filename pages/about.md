@@ -10,6 +10,8 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 
+
+
 Liste des logiciels maitrisés
 - Adobe After Effect
 - Unity
