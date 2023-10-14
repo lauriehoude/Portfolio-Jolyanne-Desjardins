@@ -2,8 +2,17 @@
 layout: post
 title: 'Émotions'
 ---
-Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce projet a été filmé avec une macro ce qui permet de voir en détail toutes les textures des éléments filmés. Je décrirais lee projet El natura comme une expérimentation de la nature. Pour ce qui est de l'ambiance sonore du projet, elle riche et complexe. Elle crée une atmosphère assez unique et vivante.
 
+
+
+## Synopsis ##
+
+Une jeune adolescente nommé Amélie (17 ans) cache ses émotions par la peur du jugement des autres. Vers la fin, elle se permet de les révéler de plus en plus au grand jour et finit par s'assumer. On passe par la peur, l'angoisse, la tristesse, la colère, l'acceptation.​
+
+
+## Émotions ##
+
+Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur. 
 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
 
