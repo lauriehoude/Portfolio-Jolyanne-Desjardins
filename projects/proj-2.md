@@ -12,7 +12,7 @@ Une jeune adolescente nommé Amélie (17 ans) cache ses émotions par la peur du
 
 ## Émotions ##
 
-Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur. 
+Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur de celui-ci. Dans notre projet, j'ai eu l'idée de cassé des miroirs afin qu'elle crée à la fois des formes comme demander mes aussi de différents fragments qui apporte de différentes ombres. 
 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
 
