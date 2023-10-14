@@ -17,12 +17,12 @@ Dans le projet El natura, j'étais réalisatrice avec ma collègue Ghita Alaoui.
 
 
 
-## Logiciels utilisés ##
+#### Logiciels utilisés ####
 
 - DAvinci Resolve
 - Reaper
 
 
-## Techniques utilisés  ##
+#### Techniques utilisés  ####
 
 - Camera lentille Macro
