@@ -20,8 +20,7 @@ Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des 
 
 ## Mon rôle ##
 
-
-Dans le projet El natura, j'étais réalisatrice avec ma collègue Ghita Alaoui. Lors duu tournage, je me suis assuré que tout se passe comme prévu et j'étais celle qui prennait les décisions finales. De plus, j'ai aussi fait le montage vidéo avec ma collègue. Cependant pour ce qui est du montage de son c'est moi qui a enregistré les sons en studio et qui l'ai a monté ensemble. 
+Dans le projet **Émotion** mon rôle était celui de ka réalisatrice
 
 
 
