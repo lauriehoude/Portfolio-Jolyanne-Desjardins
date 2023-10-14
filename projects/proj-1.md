@@ -14,3 +14,7 @@ Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce 
 
 Dans le projet El natura, j'étais réalisatrice avec ma collègue Ghita Alaoui. Lors duu tournage, je me suis assuré que tout se passe comme prévu et j'étais celle qui prennait les décisions finales. De plus, j'ai aussi fait le montage vidéo avec ma collègue. Cependant pour ce qui est du montage de son c'est moi qui a enregistré les sons en studio et qui l'ai a monté ensemble. 
 
+
+## Logiciels utilisés ##
+
+
