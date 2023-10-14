@@ -1,8 +1,28 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Émotions'
 ---
+Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce projet a été filmé avec une macro ce qui permet de voir en détail toutes les textures des éléments filmés. Je décrirais lee projet El natura comme une expérimentation de la nature. Pour ce qui est de l'ambiance sonore du projet, elle riche et complexe. Elle crée une atmosphère assez unique et vivante.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+[![EL natura](http://img.youtube.com/vi/mUgGSbJXOVc/0.jpg)](https://www.youtube.com/watch?v=mUgGSbJXOVc)
+
+
+
+## Mon rôle ##
+
+
+Dans le projet El natura, j'étais réalisatrice avec ma collègue Ghita Alaoui. Lors duu tournage, je me suis assuré que tout se passe comme prévu et j'étais celle qui prennait les décisions finales. De plus, j'ai aussi fait le montage vidéo avec ma collègue. Cependant pour ce qui est du montage de son c'est moi qui a enregistré les sons en studio et qui l'ai a monté ensemble. 
+
+
+
+
+#### Logiciels utilisés ####
+
+- DAvinci Resolve
+- Reaper
+
+
+#### Techniques utilisés  ####
+
+- Camera lentille Macro
