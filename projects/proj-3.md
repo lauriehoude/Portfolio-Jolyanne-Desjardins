@@ -3,6 +3,30 @@ layout: post
 title: 'Élucitrap'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+
+
+## Émotions ##
+
+Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur de celui-ci. Dans notre projet, j'ai eu l'idée de cassé des miroirs afin qu'elle crée à la fois des formes comme demander mais aussi de différents fragments qui apporte de différentes ombres. De plus, nous avons aussi pour défi utilisé un green screen. Nous avons utilisé les green screen pour faire apparaitre des mains dans le visages de Anna afin de créer un effet d'oppression.
+
+[![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
+
+
+
+## Mon rôle ##
+
+Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aussi fait le montage de son et de vidéo avec ma collègue Ghita Alaoui.
+
+
+
+
+#### Logiciels utilisés ####
+
+- DAvinci Resolve
+- Reaper
+
+
+#### Techniques utilisés  ####
+
+- Green Screen
