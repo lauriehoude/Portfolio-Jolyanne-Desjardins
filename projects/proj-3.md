@@ -8,7 +8,7 @@ title: 'Élucitrap'
 
 ## Élucitrap ##
 
-Le projet Élucitrap est un mélange de 3D, de montage vidéo et de conception sonore. Le projet était en équpe de 4. On avait chacun une scène a modélisé et a animé. Par la suite on devait créer des sons à l'aide du logiciel VCV Rack 2 et faire le montage de nos différents rendus Maya.
+Le projet Élucitrap est un mélange de 3D, de montage vidéo et de conception sonore. Le projet était en équpe de 4. On avait chacun une scène a modélisé et a animé. Par la suite,  on devait créer des sons à l'aide du logiciel VCV Rack 2 et faire le montage de nos différents rendus Maya. Pour faire ma scène, je me suis inspiré du vide et de la déconstruction. J'ai créer une ambiance étrange et intéressante à la fois. 
 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
 
