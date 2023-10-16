@@ -33,4 +33,5 @@ Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aus
 
 #### Techniques utilisés  ####
 
-- Camera lentille Macro
+- Green Screen
+  
