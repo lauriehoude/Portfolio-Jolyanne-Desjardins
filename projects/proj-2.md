@@ -36,3 +36,6 @@ Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aus
 
   
 ## Création ##
+
+[![EL natura](http://img.youtube.com/vi/Q20_4hPtztA/0.jpg)](https://www.youtube.com/watch?v=Q20_4hPtztA)
+
