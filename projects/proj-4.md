@@ -3,9 +3,9 @@ layout: post
 title: 'Lover'
 ---
 
-#
+## Synopsis ##
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+
 ![slide_01](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/c8ee8c4a-0de5-4983-9313-195dd755da30)
 ![slide_02](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/be04814c-0377-4b90-9e7f-29216ffa900b)
 ![Slides_03](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/830cb43c-318f-4877-b3b3-1d7dcc7bb781)
