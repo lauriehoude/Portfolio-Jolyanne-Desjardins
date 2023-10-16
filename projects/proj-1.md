@@ -26,3 +26,7 @@ Dans le projet El natura, j'étais réalisatrice avec ma collègue Ghita Alaoui.
 #### Techniques utilisés  ####
 
 - Camera lentille Macro
+
+## Création ##
+
+![el_natura](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/6893201e-f445-4c09-ae70-2391b8543159)
