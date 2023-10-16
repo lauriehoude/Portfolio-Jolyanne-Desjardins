@@ -10,10 +10,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Maquette Promis',   url: 'proj-1'}
-- {name: 'Site Festival Electra',   url: 'proj-2'}
-- {name: 'Maquette Galerie',   url: 'proj-3'}
-- {name: 'Projet Générique',  url: 'proj-4'}
+- {name: 'El natura',   url: 'proj-1'}
+- {name: 'Émotion',   url: 'proj-2'}
+- {name: 'Elucitrap',   url: 'proj-3'}
+- {name: 'Reconstruction site promis',  url: 'proj-4'}
 - {name: 'willy',  url: 'proj-5'}
 - {name: 'La sphère',  url: 'proj-6'}
 
