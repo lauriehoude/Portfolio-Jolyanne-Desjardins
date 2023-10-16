@@ -17,7 +17,6 @@ Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
 
 
-
 ## Mon rôle ##
 
 Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aussi fait le montage de son et de vidéo avec ma collègue Ghita Alaoui.
@@ -34,4 +33,6 @@ Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aus
 #### Techniques utilisés  ####
 
 - Green Screen
+
   
+## Création ##
