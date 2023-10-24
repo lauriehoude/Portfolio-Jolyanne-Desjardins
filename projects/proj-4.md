@@ -6,7 +6,7 @@ title: 'Lover'
 ## Synopsis ##
 
 
-![slide_01](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/c8ee8c4a-0de5-4983-9313-195dd755da30)
+![slide_01](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/42676a9e-230b-4593-bf16-ba5d7731bb5f)
 ![slide_02](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/146c0bac-c045-4efc-80b1-27b90ecb5f22)
 ![Slides_03](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/830cb43c-318f-4877-b3b3-1d7dcc7bb781)
 ![Slides_04](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/d04e72b0-c9d9-4c4e-9da7-f753bf50febd)
