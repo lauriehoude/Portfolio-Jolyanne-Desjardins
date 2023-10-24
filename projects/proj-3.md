@@ -26,8 +26,5 @@ Dans le projet **Élucitrap** nous étions chacun réalisateur de notre scène �
 
 - DAvinci Resolve
 - Reaper
+- VCV Rack 2
 
-
-#### Techniques utilisés  ####
-
-- 
