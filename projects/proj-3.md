@@ -17,7 +17,7 @@ Le projet Élucitrap est un mélange de 3D, de montage vidéo et de conception s
 
 ## Mon rôle ##
 
-Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aussi fait le montage de son et de vidéo avec ma collègue Ghita Alaoui.
+Dans le projet **Élucitrap** nous étions chacun réalisateur de notre scène à modéliser. En d'autres mots, nous devions créer les sons nous mêmes dans le logiciel VCV Rack 2, nous devions aussi modéiser l'espace et animer par la suite et pour finir nous devions chacun faire un montage vidéo. Cependant mon rôle était aussi celui de la réalisatrice complète du projet donc pas seulement réalisatrice de ma scène, mais aussi la réalisatrice du projet complet. 
 
 
 
@@ -30,4 +30,4 @@ Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aus
 
 #### Techniques utilisés  ####
 
-- Green Screen
+- 
