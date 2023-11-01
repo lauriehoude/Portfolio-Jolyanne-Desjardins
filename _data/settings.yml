@@ -22,10 +22,10 @@ projects:
 
 social:
 
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'instagram', link: 'https://www.instagram.com/_lauriehoude/?igshid=dzVrcXJtaHMyeHdq&utm_source=qr'}
+- {icon: 'github',    link: 'https://github.com/lauriehoude'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/laurie-houde?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'}
+- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.lauriehoude12@outlook.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
