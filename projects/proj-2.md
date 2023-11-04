@@ -7,7 +7,7 @@ title: 'Émotions'
 
 ## Synopsis ##
 
-Une jeune adolescente nommé Amélie (17 ans) cache ses émotions par la peur du jugement des autres. Vers la fin, elle se permet de les révéler de plus en plus au grand jour et finit par s'assumer. On passe par la peur, l'angoisse, la tristesse, la colère, l'acceptation.​
+Une jeune adolescente nommée Amélie (17 ans) cache ses émotions par la peur du jugement des autres. Vers la fin, elle se permet de les révéler de plus en plus au grand jour et finit par s'assumer. On passe par la peur, l'angoisse, la tristesse, la colère, l'acceptation.​
 
 
 ## Émotions ##
@@ -19,7 +19,7 @@ Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des 
 
 ## Mon rôle ##
 
-Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aussi fait le montage de son et de vidéo avec ma collègue Ghita Alaoui.
+Dans le projet **Émotion** mon rôle était celui de la réalisatrice. Je m'occupais de planifer les rencontres d'équipe et de la gestion du temps. J'ai aussi fait le montage de son et de vidéo avec ma collègue Ghita Alaoui.
 
 
 
