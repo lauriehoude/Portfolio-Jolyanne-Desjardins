@@ -41,7 +41,7 @@ De plus, nous avons aussi fait le montage vidéo ensemble. Cependant pour ce qui
 
 #### Techniques utilisés  ####
 
-- Camera lentille Macro
+- Vectors
 
 ## Création ##
 
