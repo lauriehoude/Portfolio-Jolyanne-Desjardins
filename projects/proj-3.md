@@ -28,3 +28,6 @@ Dans le projet **Élucitrap**, nous étions chacun réalisateurs de notre scène
 - Reaper
 - VCV Rack 2
 
+## Création ##
+![vcv rack](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/876bcace-a89d-4422-8ba4-b8bf73022d14)
+![reaper](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/6b80904e-b4af-45bf-b6ea-8be1191e569f)
