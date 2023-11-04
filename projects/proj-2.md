@@ -37,5 +37,5 @@ Dans le projet **Émotion** mon rôle était celui de la réalisatrice. J'ai aus
   
 ## Création ##
 
-[![EL natura](http://img.youtube.com/vi/Q20_4hPtztA/0.jpg)](https://www.youtube.com/watch?v=Q20_4hPtztA)
 
+![Capture](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/5d10d4ce-9b69-4fb5-9b79-3aae4f00df55)
