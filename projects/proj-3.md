@@ -22,7 +22,7 @@ Dans le projet **Élucitrap**, nous étions chacun réalisateurs de notre scène
 
 
 
-#### Logiciels utilisés ####
+### Logiciels utilisés ###
 
 - DAvinci Resolve
 - Reaper
