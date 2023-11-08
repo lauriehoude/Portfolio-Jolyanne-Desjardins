@@ -17,7 +17,7 @@ Le projet Élucitrap est un mélange de 3D, de montage vidéo et de conception s
 
 ## Mon rôle ##
 
-Dans le projet **Élucitrap**, nous étions chacun réalisateurs de notre scène à modéliser. En d'autres mots, nous devions créer les sons nous-mêmes dans le logiciel VCV Rack 2. Nous devions aussi modéliser notre scène et l'animer par la suite. Pour finir, nous devions chacun faire un montage vidéo des créations de tous les membres de l'équipe. Pour ce projet, en plus d'être la réalisatrice, j'avais la charge complète du projet. Donc, je devais m'occuper de la gestion et de la planification du projet.
+Dans le projet **Élucitrap**, nous étions chacun réalisateurs de notre scène à modéliser. En d'autres mots, nous devions créer les sons nous-mêmes dans le logiciel VCV Rack 2. Nous devions aussi modéliser notre scène et l'animer par la suite. Pour finir, nous devions chacun faire un montage vidéo des créations de tous les membres de l'équipe. Pour ce projet, en plus d'être la réalisatrice, j'avais la charge complète du projet. Donc, je devais m'occuper de la gestion et de la planification de celui-ci.
 
 
 
