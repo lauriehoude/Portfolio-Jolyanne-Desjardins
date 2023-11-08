@@ -7,8 +7,9 @@ title: 'Lover'
 
 C’est la rentrée scolaire pour le couple Novalie et Oliver. Ils commencent leur deuxième année universitaire à Yale. Ça fait trois ans qu’ils sont ensemble. Malheureusement, dû à leurs horaires chargées, le couple n’a pas le temps de se voir. Pour Novalie cette année-là va être totalement différente, car elle va découvrir une partie d’elle qu’elle ne connaissait pas. La rencontre d’Amara va chambouler son chemin de vie.  
 
-## concept ##
+## Concept ##
 
+Le but était de créer un film à l'aide d'assets que nous avons créer sur Photoshop
 
 ![slide_01](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/42676a9e-230b-4593-bf16-ba5d7731bb5f)
 ![slide_02](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/146c0bac-c045-4efc-80b1-27b90ecb5f22)
@@ -27,8 +28,7 @@ C’est la rentrée scolaire pour le couple Novalie et Oliver. Ils commencent le
 ## Mon rôle ##
 
 
-Dans le projet El natura, moi et  ma collègue Ghita Alaoui étions les réalisatrices. Nous avons travaillées très fort pour que ce projet est le résultat désiré. 
-De plus, nous avons aussi fait le montage vidéo ensemble. Cependant pour ce qui est du montage de son c'est moi qui a enregistré les sons en studio et qui l'ai a monté ensemble et j'ai aussi fait la colorisation des clips. 
+Dans le projet **Une nouvelle direction** j'ai tout fait ce qui veux dire que j'ai fait les assets en vecteur et j'ai choisi les couleurs. 
 
 
 
