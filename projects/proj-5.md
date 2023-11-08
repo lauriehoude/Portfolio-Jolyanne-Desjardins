@@ -20,25 +20,23 @@ Le but était de créer un personnage et de l'animer. J'ai donc fait un petit mo
 ## Mon rôle ##
 
 
-Dans le projet **Une nouvelle direction** j'ai tout fait ce qui veux dire que j'ai fait les assets en vecteur et j'ai choisi les couleurs. 
+Dans le projet **Waffy** j'ai tout fait ce qui veux dire que j'ai modélisé le monstre et je l'ai animé dans Maya.
 
 
 
 
 #### Logiciels utilisés ####
 
-- Photoshop
+- Maya
 - Power Point
 
 
 
-#### Techniques utilisés  ####
-
-- Vectors
 
 ## Création ##
 
 Moodboard 
 
 
-![houde_laurie_moodboard_01_582-124MO](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/279184d2-efb8-4265-a3fa-ea9c84afb843)
+
+![Slide3](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/f919b810-af43-4d26-b997-9a4df9d691cc)
