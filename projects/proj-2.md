@@ -24,13 +24,13 @@ Dans le projet **Émotion** mon rôle était celui de la réalisatrice. Je m'occ
 
 
 
-#### Logiciels utilisés ####
+#### Logiciels utilisés ###
 
 - DAvinci Resolve
 - Reaper
 
 
-#### Techniques utilisés  ####
+### Techniques utilisés  ###
 
 - Green Screen
 
