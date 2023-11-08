@@ -29,4 +29,4 @@ Liste des logiciels maitrisés
 
 Mon cv 
 
-![cv](https://www.canva.com/design/DAFtrU-OEX0/b_8l7dUpo_UCFyLW17ltiA/view?utm_content=DAFtrU-OEX0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[cv](https://www.canva.com/design/DAFtrU-OEX0/b_8l7dUpo_UCFyLW17ltiA/view?utm_content=DAFtrU-OEX0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
