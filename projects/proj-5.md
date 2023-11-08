@@ -9,7 +9,7 @@ C'est l'histoire de waffy un petit munchi du village Groche. Il habite dans cett
 
 ## Concept ##
 
-Le but était de créer un film à l'aide d'assets que nous avons créer sur Photoshop
+Le but était de créer un personnage et de l'animer. J'ai donc fait un petit monstre bleu .
 
 
 ![waffy-2](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/efb0f594-6d43-43e2-95ee-9d061cf258e2)
