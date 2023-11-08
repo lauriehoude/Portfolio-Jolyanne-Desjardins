@@ -7,6 +7,7 @@ title: 'Lover'
 
 C’est la rentrée scolaire pour le couple Novalie et Oliver. Ils commencent leur deuxième année universitaire à Yale. Ça fait trois ans qu’ils sont ensemble. Malheureusement, dû à leurs horaires chargées, le couple n’a pas le temps de se voir. Pour Novalie cette année-là va être totalement différente, car elle va découvrir une partie d’elle qu’elle ne connaissait pas. La rencontre d’Amara va chambouler son chemin de vie.  
 
+## concept ##
 
 
 ![slide_01](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/42676a9e-230b-4593-bf16-ba5d7731bb5f)
