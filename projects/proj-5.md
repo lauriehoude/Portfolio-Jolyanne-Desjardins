@@ -1,12 +1,10 @@
 
----
-layout: post
-title: 'Une nouvelle direction'
----
+---layout: post
+title: 'Waffy'---
 
 ## Synopsis ##
 
-C’est la rentrée scolaire pour le couple Novalie et Oliver. Ils commencent leur deuxième année universitaire à Yale. Ça fait trois ans qu’ils sont ensemble. Malheureusement, dû à leurs horaires chargées, le couple n’a pas le temps de se voir. Pour Novalie cette année-là va être totalement différente, car elle va découvrir une partie d’elle qu’elle ne connaissait pas. La rencontre d’Amara va chambouler son chemin de vie.  
+C'est l'histoire de waffy un petit munchi du village Groche. Il habite dans cette petite vallé situé dans les montagnes à l'ouest du village. Il demeure dans cette merveilleuse maison qui lui sert d'établit​
 
 ## Concept ##
 
