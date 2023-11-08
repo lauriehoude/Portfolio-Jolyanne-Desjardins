@@ -29,4 +29,4 @@ Liste des logiciels maitrisés
 
 Mon cv 
 
-![École Secondaire Lucille Teasdale 2015 à 2020 DES obtenu Cégep Lionel-Groulx 2020 à 2021 Programme DEC Tremplin Collège Montmorency 2021 en cours  DEC Technique Intégration Multimédia en voie d’ob](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/ec949cf7-0256-4b8a-8820-77ac4a31620e)
+![cv](https://www.canva.com/design/DAFtrU-OEX0/b_8l7dUpo_UCFyLW17ltiA/view?utm_content=DAFtrU-OEX0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
