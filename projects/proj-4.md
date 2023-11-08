@@ -33,14 +33,14 @@ Dans le projet **Une nouvelle direction** j'ai tout fait ce qui veux dire que j'
 
 
 
-#### Logiciels utilisés ####
+### Logiciels utilisés ###
 
 - Photoshop
 - Power Point
 
 
 
-#### Techniques utilisés  ####
+### Techniques utilisés  ###
 
 - Vectors
 
