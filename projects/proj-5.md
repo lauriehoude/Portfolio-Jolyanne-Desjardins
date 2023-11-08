@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Une nouvelle direction'
+title: 'Waffy'
 ---
 
 ## Synopsis ##
