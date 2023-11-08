@@ -14,8 +14,8 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 
-![lauriehoude](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/2d89f8f2-0749-44a7-b103-762b42228f46)
 
+<img src="https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/2d89f8f2-0749-44a7-b103-762b42228f46 " width="500px"> 
 
 
 
