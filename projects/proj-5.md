@@ -5,7 +5,7 @@ title: 'Waffy'
 
 ## Synopsis ##
 
-C'est l'histoire de Waffy un petit munchi du village Groche. Il habite dans cette petite vallé situé dans les montagnes à l'ouest du village. Il demeure dans cette merveilleuse maison qui lui sert d'établit​
+C'est l'histoire de Waffy un petit munchi du village Groche. Il habite dans cette petite vallée situé dans les montagnes à l'ouest du village. Il demeure dans cette merveilleuse maison qui lui sert d'établit​.
 
 ## Concept ##
 
@@ -20,7 +20,7 @@ Le but était de créer un personnage et de l'animer. J'ai donc fait un petit mo
 ## Mon rôle ##
 
 
-Dans le projet **Waffy** j'ai tout fait ce qui veux dire que j'ai modélisé le monstre et je l'ai animé dans Maya.
+Dans le projet **Waffy**, encore une fois j'ai fais la création complète du projet. J'ai modélisé le monstre et je l'ai animé dans Maya.
 
 
 
