@@ -7,7 +7,7 @@ title: 'Émotions'
 
 ## Synopsis ##
 
-Une jeune adolescente nommée Amélie (17 ans) cache ses émotions par la peur du jugement des autres. Vers la fin, elle se permet de les révéler de plus en plus au grand jour et finit par s'assumer. On passe par la peur, l'angoisse, la tristesse, la colère, l'acceptation.​
+Une jeune adolescente nommée Amélie (17 ans) cache ses émotions par la peur du jugement des autres. Vers la fin, elle se permet de les révéler de plus en plus au grand jour et finit par s'assumer. On passe par la peur, l'angoisse, la tristesse, la colère pour finir avec l'acceptation.​
 
 
 ## Émotions ##
