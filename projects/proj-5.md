@@ -13,6 +13,7 @@ C’est la rentrée scolaire pour le couple Novalie et Oliver. Ils commencent le
 Le but était de créer un film à l'aide d'assets que nous avons créer sur Photoshop
 
 
+![waffy-2](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/efb0f594-6d43-43e2-95ee-9d061cf258e2)
 
 
 
