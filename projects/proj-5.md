@@ -40,3 +40,4 @@ Moodboard
 
 
 ![Slide3](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/f919b810-af43-4d26-b997-9a4df9d691cc)
+![Slide4](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/bd07314a-cfb7-41e9-9a01-b4d64780a72f)
