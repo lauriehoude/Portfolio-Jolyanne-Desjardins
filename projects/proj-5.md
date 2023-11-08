@@ -25,7 +25,7 @@ Dans le projet **Waffy** j'ai tout fait ce qui veux dire que j'ai modélisé le 
 
 
 
-#### Logiciels utilisés ####
+## Logiciels utilisés ##
 
 - Maya
 - Power Point
