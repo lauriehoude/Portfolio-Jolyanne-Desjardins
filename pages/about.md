@@ -37,3 +37,11 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 ## Mon cv ##
 
 [Laurie-Houde-CV](https://www.canva.com/design/DAFtrU-OEX0/b_8l7dUpo_UCFyLW17ltiA/view?utm_content=DAFtrU-OEX0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+
+
+## Mention ##
+
+
+Fondation de soutient aux arts de Laval
+Bourse dans la catégorie : Art numérique, multimédia créatif
