@@ -4,7 +4,7 @@ title: 'El natura'
 ---
 
 
-## Concept
+### Concept
  
 Le projet El natura a été filmé avec une lentille macro, ce qui permet de voir en détail toutes les textures des éléments filmés. Je décrirais le projet **El natura** comme une expérimentation de la nature. Pour ce qui est de l'ambiance sonore du projet, elle riche et complexe. Elle crée une atmosphère unique et vivante.
 
@@ -13,7 +13,7 @@ Le projet El natura a été filmé avec une lentille macro, ce qui permet de voi
 
 
 
-## Mon rôle ##
+### Mon rôle
 
 
 Dans le projet **El natura**, moi et  ma collègue Ghita Alaoui étions les réalisatrices. Nous avons travaillé très fort pour que ce projet soit le résultat désiré. 
