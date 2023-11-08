@@ -12,7 +12,7 @@ Une jeune adolescente nommée Amélie (17 ans) cache ses émotions par la peur d
 
 ## Émotions ##
 
-Le projet **Émotions** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur de celui-ci. Dans notre projet, j'ai eu l'idée de casser des miroirs afin qu'elle crée à la fois des formes comme demander, mais aussi différents fragments qui apportent non seulement un côté esthétique,mais aussi des ombres intéressantes. De plus, nous avons aussi pour défi utilisé un Greenscreen ce qui était notre première fois. Nous avons utilisé les Greenscreen pour faire apparaitre des mains dans le visage de Anna afin de créer un effet d'oppression.
+Le projet **Émotions** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur de celui-ci. Dans notre projet, j'ai eu l'idée de casser des miroirs afin qu'elle crée à la fois des formes comme demander, mais aussi différents fragments qui apportent non seulement un côté esthétique , mais aussi des ombres intéressantes. De plus, nous avons aussi eu pour défi d'utilisé un Greenscreen, ce qui était notre première expérience. Nous avons utilisé les Greenscreen pour faire apparaitre des mains dans le visage de Anna afin de créer un effet d'oppression.
 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
 
