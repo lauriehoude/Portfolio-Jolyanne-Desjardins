@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lover'
+title: 'Une nouvelle direction'
 ---
 
 ## Synopsis ##
