@@ -5,7 +5,7 @@ title: 'Waffy'
 
 ## Synopsis ##
 
-C'est l'histoire de waffy un petit munchi du village Groche. Il habite dans cette petite vallé situé dans les montagnes à l'ouest du village. Il demeure dans cette merveilleuse maison qui lui sert d'établit​
+C'est l'histoire de Waffy un petit munchi du village Groche. Il habite dans cette petite vallé situé dans les montagnes à l'ouest du village. Il demeure dans cette merveilleuse maison qui lui sert d'établit​
 
 ## Concept ##
 
